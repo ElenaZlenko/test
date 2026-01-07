@@ -1,0 +1,4 @@
+let name = "Алиса"; 
+const age = 30;    
+var oldVar = "старая"; 
+console.log(`Привет, ${name}, тебе ${age} лет.`); 
